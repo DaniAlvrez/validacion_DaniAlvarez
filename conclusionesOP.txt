@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 desde git local5
+=======
+desde git remoto
+>>>>>>> 513d3ba4719901ad930a0d62099fe004f2174227
